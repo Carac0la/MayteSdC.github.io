@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "Madrid, Spain"
-title                    : "Mayte SdC"
+title                    : "Projects by Mayte"
 title_separator          : "-"
 name                     : "Mayte Sanz del Cura"
 description              : "Data Science Portfolio"
@@ -84,8 +84,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mayte Sanz del Cura"
-  avatar           : "/images/Big data/avatar BD" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Mayte Sanz"
+  avatar           : "/images/Big data/avatar BD.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Madrid, Spain"
   email            :
