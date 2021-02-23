@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Mayte Sanz del Cura"
-  avatar           : "C:\Users\pcportatil\Pictures\Big data\avatar BD" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Big data/avatar BD" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Madrid, Spain"
   email            :
