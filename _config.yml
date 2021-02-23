@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Mayte Sanz"
-  avatar           : "/images/avatarBD.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatarBD.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Madrid, Spain"
   email            :
