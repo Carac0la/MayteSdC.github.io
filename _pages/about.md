@@ -5,4 +5,7 @@ header:
   image: "/images/big-data-master-900x400.jpg"
 ---
 
-Mi experiencia profesional siempre se ha ligado al análisis de datos, mi pasión por la información me ha llevado a 
+Mi experiencia profesional siempre ha ido liga al análisis de datos, mi pasión por la investigación me ha llevado a formarme en la Ciencia de Datos.
+En las herramientas necesarias para poder analizar grandes volúmnenes y así poder proveer de la información necesaria según el estudio requerido.
+
+Mi capacidad de superación y el interés por aprender, son parte muy importante en mis logros pofesionales, con lo que he conseguido llevar a cabo los proyectos establecidos.
