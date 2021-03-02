@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /about/
 header:
-  image: "/images/big_data_código_about_me.jpg"
+  image: "/images/seguridad-big-data_about-me.jpg"
 ---
 
 Mi experiencia profesional siempre ha ido liga al análisis de datos, mi pasión por la investigación me ha llevado a formarme en la Ciencia de Datos.
