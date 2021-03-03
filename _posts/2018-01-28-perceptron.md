@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2021
+date: 2021-01-01
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/big-data-projects.jpg"
