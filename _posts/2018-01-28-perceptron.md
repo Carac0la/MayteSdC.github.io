@@ -1,9 +1,9 @@
 ---
 title: "Projects"
-date: 2018-01-28
+date: 2021
 tags: [data wrangling, data science, messy data]
 header:
-  image: "/images/"
+  image: "/images/big-data-projects.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
